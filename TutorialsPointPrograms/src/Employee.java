@@ -1,3 +1,7 @@
+/*
+ * Instance variable can be accessed directly by calling the variable name inside the class . however within STATIC
+ * methods and DIFFERENT class should be called using the fully qualified name . OBJECTREFERENCE.VariableName
+ */
 import java.io.*;
 public class Employee {
 	String name;

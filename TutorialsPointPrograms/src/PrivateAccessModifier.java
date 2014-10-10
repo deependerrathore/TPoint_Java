@@ -1,3 +1,6 @@
+/*
+ * Class and interfaces cannot be Private
+ */
 public class PrivateAccessModifier {
 	
 	private String format;	// Private Instance variable

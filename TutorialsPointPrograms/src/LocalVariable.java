@@ -10,7 +10,7 @@
 
 public class LocalVariable {
 	public void pupAge(){
-		int age = 0;
+		int age ;
 		age = age + 7;
 		System.out.println("Puppy age is : " + age);
 		
